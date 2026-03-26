@@ -2,22 +2,26 @@
   "name": "intro-to-backend",
   "version": "1.0.0",
   "description": "learning the backend development",
-  "homepage": "https://github.com/MuneebSaeedDev/Learning-Backend-Development#readme",
+  "homepage": "https://github.com/MuneebSaeedDev/LEARNING-BACKEND#readme",
   "bugs": {
-    "url": "https://github.com/MuneebSaeedDev/Learning-Backend-Development/issues"
+    "url": "https://github.com/MuneebSaeedDev/LEARNING-BACKEND/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuneebSaeedDev/Learning-Backend-Development.git"
+    "url": "git+https://github.com/MuneebSaeedDev/LEARNING-BACKEND.git"
   },
   "license": "ISC",
   "author": "Auther",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/src/index",
+    "dev": "nodemon backend/src/index"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.3",
+    "nodemon": "^3.1.14"
   }
 }
