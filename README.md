@@ -1,7 +1,3 @@
-Here you go — wrapped properly as a **README.md file (clean, final, ready to paste)** 👇
-
----
-
 ````md
 # 📦 Project Initialization (package.json)
 
