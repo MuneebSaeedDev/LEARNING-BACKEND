@@ -16,7 +16,6 @@ The application is organized in a modular way so that every file has a clear res
 ---
 
 ## Tech Stack
-````md
 # 📦 Project Initialization (package.json)
 
 - **Node.js** for running JavaScript on the server
