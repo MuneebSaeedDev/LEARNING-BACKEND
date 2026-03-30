@@ -1,8 +1,3 @@
-Here you go — wrapped properly as a **README.md file (clean, final, ready to paste)** 👇
-
----
-
-````md
 # 📦 Project Initialization (package.json)
 
 To start a Node.js project, the first step is initializing a `package.json` file. This file contains important information such as project version, dependencies, entry point, and metadata.
