@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Node.js Authentication Backend with MongoDB
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
@@ -17,10 +16,8 @@ The application is organized in a modular way so that every file has a clear res
 ---
 
 ## Tech Stack
-=======
 ````md
 # 📦 Project Initialization (package.json)
->>>>>>> d80ca04239381747f935b81467fe2b4eeaa24e40
 
 - **Node.js** for running JavaScript on the server
 - **Express.js** for creating the HTTP server and APIs
